@@ -18,6 +18,7 @@ spring:
       max-active: 100
     sql-script-encoding: gbk
 
+
 logging:
   level:
     cn.gsq.queryform.dao: debug
